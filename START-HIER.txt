@@ -1,0 +1,3 @@
+OrdnungZuhause – Shop-Demo
+
+Öffne index.html im Browser. Dies ist ein statischer Design-Prototyp, keine aktive Kasse. Ergänze vor einem echten Verkauf Impressum, Datenschutz, Widerruf, Lieferantenangaben und eine sichere Checkout-Lösung.
